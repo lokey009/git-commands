@@ -1,0 +1,61 @@
+google hashcode
+google summer
+
+
+git --version
+
+cd foldername
+
+mkdir foldername
+
+ls
+
+touch filename  //to create file
+
+touch {list of filenames}.extension filename
+
+git init
+
+git status
+
+git add filename	//added to tracked status for commit it and stored to git account
+
+git rm --cached <file>	//remove from tracking
+
+
+git log
+
+git log --oneline
+
+:q
+
+:q!
+
+
+git add . //add all files
+
+Author: lokesh <lokeshkumarjoga009009@gmail.com>
+
+git checkout <logfilename>
+
+git checkout master
+
+git commit -m "message"
+
+git commit --amend -m "changed message"
+
+git reset --hard HEAD^
+
+git reset --hard head~3
+
+git rebase --onto  branchname~commitnumbertodelete branchname~commitnumbertokeep master
+
+git remote add <remote name> link of the repository(link of that folder)
+
+git remote
+
+git remote -v
+
+git push remotename branchname(eg:master)
+
+ 
